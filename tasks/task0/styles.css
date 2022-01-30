@@ -1,0 +1,44 @@
+.heading{
+    
+    margin-bottom: 40px;
+    text-align: center;
+}
+.subhead{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.colbox{
+    
+    margin: 0px 40px 0px 40px;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    
+    display: inline-block;
+}
+#red{
+    background-color: red;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
+.col{
+    text-align: center;
+}
+#purple{
+    background-color: purple;
+}
+#green{
+    background-color:green;
+}
+#orange{
+    background-color:orange;
+}
+.img{
+    margin: 50px;
+    text-align: center;
+}
